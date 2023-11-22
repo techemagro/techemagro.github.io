@@ -1,6 +1,6 @@
 ---
 title: technical
-layout: page
+layout: subpage
 permalink: /technical/
 ---
 
