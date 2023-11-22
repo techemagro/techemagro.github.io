@@ -1,7 +1,7 @@
 ---
 title: FreshKing
 layout: page
-permalink: /freshking/
+permalink: /detail/freshking/
 ---
 
 
