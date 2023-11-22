@@ -13,7 +13,8 @@ sass:
 include:
   - _pages
 
-permalink: /:categories/:title
+pages:
+  permalink: /:path/:basename/
 
 exclude:
   - .sass-cache
