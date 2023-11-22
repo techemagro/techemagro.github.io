@@ -12,7 +12,8 @@ sass:
 
 include:
   - _pages
-  - _pages/detail
+
+permalink: /:categories/:title:output_ext
 
 exclude:
   - .sass-cache
