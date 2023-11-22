@@ -1,7 +1,7 @@
 ---
-title: Keep Fresh
+title: Fresh
 layout: page
-permalink: /keepfresh/
+permalink: /fresh/
 ---
 
 
