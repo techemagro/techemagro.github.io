@@ -9,4 +9,4 @@ permalink: /fresh/
 <hr />
 
 ###  신선도유지제 농약완제품
-- 프레쉬킹&trade;(일-메틸사이클로프로펜 마이크로캡슐훈증제 3.3%) [![ㄷ등록정보](/assets/img/icon_link.png)](https://www.nihhs.go.kr/usr/farmer/selectPesticideList.do?pestiBrandName=%22%ED%94%84%EB%A0%88%EC%89%AC%ED%82%B9%22 "국립원예특작과학원 홈페이지"){:target="_blank" rel="noopener noreferrer nofollow"}
+- 프레쉬킹&trade;(일-메틸사이클로프로펜 마이크로캡슐훈증제 3.3%) [자세히보기](/freshking.md)
