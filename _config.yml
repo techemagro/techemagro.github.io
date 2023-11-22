@@ -15,3 +15,6 @@ include:
 
 exclude:
   - .sass-cache
+
+kramdown:
+  input: Kramdown
