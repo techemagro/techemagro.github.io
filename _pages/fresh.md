@@ -1,6 +1,6 @@
 ---
 title: Fresh
-layout: page
+layout: subpage
 permalink: /fresh/
 ---
 
