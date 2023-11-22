@@ -13,9 +13,6 @@ sass:
 include:
   - _pages
 
-pages:
-  permalink: /:path/:basename/
-
 exclude:
   - .sass-cache
 
