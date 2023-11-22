@@ -12,7 +12,7 @@ permalink: /freshking/
 
 ### 개요
 
-![test](/assets/img/freshking_logo.png)
+![test](/assets/img/freshking_logo_small.png)
 <!--
 <img scr="assets/img/freshking_logo.png" width="150" height="150"><br>
 -->
