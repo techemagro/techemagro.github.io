@@ -1,6 +1,6 @@
 ---
 title: freshking
-layout: page
+layout: subpage
 permalink: /freshking/
 
 ---
