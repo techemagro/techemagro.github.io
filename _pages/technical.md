@@ -21,7 +21,7 @@ permalink: /technical/
 - Cartap-hydrochloride
 - Flonicamid
 - Dimethomorph
-- 
+  
 ### 살균제
 
 - Tricyclazole
@@ -33,7 +33,7 @@ permalink: /technical/
 - Kasugamycin
 - Fluazinam
 - Trifloxystrbin
-- 
+  
 ### 제초제
 
 - Oxadiazon
