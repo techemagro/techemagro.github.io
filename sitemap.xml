@@ -8,7 +8,7 @@ sitemap: false
 
   {% for page in site.pages %}
 	{% if page.sitemap != false %}
-		{% if page.url | slice: -3,3 != "css" %}
+		{% if page.url | slice: 0,7 != "/assets" %}
  			 <url><loc>{{ site.url }}{{ page.url }}</loc></url>
 		{% endif %}	 
 	{% endif %}
