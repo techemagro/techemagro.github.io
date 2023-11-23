@@ -30,8 +30,10 @@ layout: null
    {% for page in site.pages %}
     <url>
       <loc>{{ site.url }}{{ page.url }}</loc>     
-        <lastmod>{{ page.date | date_to_xmlschema }}</lastmod>   
-        <changefreq>Yearly</changefreq>
+        {% if page.date == null %}
+            <lastmod>{{ page.date | date_to_xmlschema }}</lastmod>  
+        {% else %}       
+        {% endif %}
         <priority>0.5</priority>
     </url>
   {% endfor %}
