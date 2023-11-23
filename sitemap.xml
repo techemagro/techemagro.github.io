@@ -8,8 +8,10 @@ sitemap: false
 
   {% for page in site.pages %}
 	{% if page.sitemap != false %}
-  <url><loc>{{ site.url }}{{ page.url }}</loc></url>
-	 {% endif %}
+		{% if page.url | slice: -3,3 != "css" %}
+ 			 <url><loc>{{ site.url }}{{ page.url }}</loc></url>
+		{% endif %}	 
+	{% endif %}
   {% endfor %}
 
   {% for post in site.posts %}
