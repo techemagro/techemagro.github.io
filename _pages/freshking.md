@@ -16,6 +16,7 @@ permalink: /freshking/
 <!--
 <img scr="assets/img/freshking_logo.png" width="150" height="150"><br>
 -->
+
 프레쉬킹&trade;은 수확후 과일을 오랫동안 신선하게 보관할수 있도록 돕는 신선도 유지제입니다.
 
 ### 유효성분
