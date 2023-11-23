@@ -2,7 +2,7 @@
 
 __2023.11.22__
 
- https://github.com/cicirello/generate-sitemap 을 사용하여 sitemap 작성
+ sitemap 작성
 
 __2023.11.22__
 
