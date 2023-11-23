@@ -18,3 +18,5 @@ exclude:
 
 kramdown:
   input: Kramdown
+
+permalink: /:categories/:title/
