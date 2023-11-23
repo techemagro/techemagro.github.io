@@ -33,7 +33,7 @@ layout: null
         {% if page.last_modified_at %}
             <lastmod>{{ page.last_modified_at | date_to_xmlschema }}</lastmod>
         {% else %}
-               <lastmod>{{ page.date | date_to_xmlschema }}</lastmod>  
+            <lastmod>{{ page.date | date_to_xmlschema }}</lastmod>  
         {% endif %}
        <priority>0.5</priority>
     </url>
