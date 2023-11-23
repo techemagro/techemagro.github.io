@@ -1,0 +1,9 @@
+User-agent: *
+
+Allow: /
+
+Disallow: /assets/
+Disallow: /readme.*
+
+
+Sitemap: http://www.techemagro.co.kr/sitemap.xml
