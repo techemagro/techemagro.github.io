@@ -1,8 +1,8 @@
 ## change log
 
-__2023.11.22__
+__2023.11.23__
 
- sitemap 작성
+ sitemap, robots 작성
 
 __2023.11.22__
 
