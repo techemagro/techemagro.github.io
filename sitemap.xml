@@ -28,25 +28,10 @@ layout: null
   {% endfor %}
    {% for page in site.pages %}
     <url>
-      <loc>{{ site.url }}{{ page.url }}</loc>
-      {% if page.lastmod == null %}
-        <lastmod>{{ page.date | date_to_xmlschema }}</lastmod>
-      {% else %}
-        <lastmod>{{ page.lastmod | date_to_xmlschema }}</lastmod>
-      {% endif %}
-
-      {% if page.sitemap.changefreq == null %}
+      <loc>{{ site.url }}{{ page.url }}</loc>     
+        <lastmod>{{ page.date | date_to_xmlschema }}</lastmod>   
         <changefreq>Yearly</changefreq>
-      {% else %}
-        <changefreq>{{ page.sitemap.changefreq }}</changefreq>
-      {% endif %}
-
-      {% if page.sitemap.priority == null %}
-          <priority>0.5</priority>
-      {% else %}
-        <priority>{{ page.sitemap.priority }}</priority>
-      {% endif %}
-
+        <priority>0.5</priority>
     </url>
   {% endfor %}
 </urlset>
